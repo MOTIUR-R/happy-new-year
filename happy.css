@@ -24,3 +24,28 @@ font-size: 30px;
 .party{
     margin-top: 1%;
 }
+
+.section-text{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color:  #F00;;
+}
+
+.text-color{
+    font-family: 'Inter', sans-serif;
+    font-size: 80px;
+}
+.text{
+    font-size: 18px;
+    font-weight: 650;
+    ;
+}
+.all{
+    font-size: 42px;
+    color: #070211;
+    margin-top: 0%;
+}
+.section-image{
+    position: relative;
+
+}
