@@ -49,3 +49,89 @@ font-size: 30px;
     position: relative;
 
 }
+
+.join{
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 60px;
+    background-repeat: no-repeat;
+    background-image: url(./images/Vectorrr.png);
+    width: 1250px;
+    height: 600px;
+    display: flex
+    
+}
+
+.join .group-70{
+    width: 319.83px;
+    height:  464.662px;
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+.join div { 
+    padding-top: 50px;
+    margin-left: 60px;
+    text-decoration: none;
+    
+}
+.join .btn{
+    color:  #FFF;
+    background: none;
+    border: 0px;
+    text-decoration: none;
+}
+.welcome{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 800;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+
+.let{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+
+.join > button{
+    text-decoration: none;
+    border: 0px;
+}
+div{
+    border-radius: 10px;
+}
+
+.about{
+    background-color: rgb(240, 206, 206);
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 30px;
+    padding: 130px;
+    border-radius: 10px;
+    margin: 100px;
+}
+.place{
+    color: #F00;;
+}
+    
+.btn-praimary{
+    border-radius: 8px;
+background: #F00;
+border: 0;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+padding: 13px 32px;
+}
