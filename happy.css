@@ -1,0 +1,26 @@
+
+.header-container{
+    margin: 100px;
+height: 500px;
+background-image: url(./images/Banner\ Image.png);
+background-position: center;
+background-size: cover;
+border-radius: 10px;
+background: linear-gradient(50%);
+filter: brightness(90%);
+font-family: 'Merriweather', serif;
+}
+
+.header-text{
+    color: #FFF;
+text-align: center;
+font-size: 30px;
+}
+.new{
+    padding-top: 130px;
+    margin-bottom: 0%;
+    font-size: smaller;
+}
+.party{
+    margin-top: 1%;
+}
