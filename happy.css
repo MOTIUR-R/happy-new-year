@@ -191,3 +191,63 @@ font-size: 16px;
     width: 125px;
     height: 125px;
 }
+
+
+#content-section{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.what-is{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    margin-bottom: 1%;
+}
+
+.holi{
+    margin-top: 0%;
+    color: #F00;
+    font-family: Merriweather;
+    font-size: 72px;
+    margin-bottom: 1%;
+}
+
+.to-mark{
+    margin-top: 0%;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.sala{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+}
+
+.flex{
+    display: flex;
+}
+
+.red{
+    max-width: 10%;
+}
+
+.meye-offer{
+    margin-left: 580px;
+    position:static;
+    justify-content: left;
+}
+
+.jura{
+    gap: 0%;
+}
+
+.gif{
+    margin-top: px;
+}
+
+.gift{
+    justify-content: end;
+}
