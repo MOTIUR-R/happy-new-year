@@ -280,5 +280,54 @@ margin-bottom: 0%;
 
 .per-7 :hover {
     border-radius: 20px;
-    margin-left: 20px;
+    margin-left: 18px;
 }
+
+.container{
+       justify-content: center;
+       align-items: center;
+       background-color: border-radius: 20px;
+       background: rgba(255, 0, 0, 0.05);;
+}
+
+#sob{
+    margin-left:0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.pic{
+    justify-content: center;
+    justify-items: center;
+    margin-left: 530px;
+    margin-top: 30px;
+}
+
+.kala{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 44px;
+}
+
+.kala-2{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+}
+
+.input{
+    border-radius: 50px;
+    background: #FFF;
+}
+
+.bt{
+    padding: 18px;
+    color:#F00;
+    border-radius: 8px;
+    background: #F00;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    
