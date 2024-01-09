@@ -8,9 +8,8 @@ background-size: cover;
 border-radius: 10px;
 background: linear-gradient(50%);
 filter: brightness(90%);
-font-family: 'Merriweather', serif;
+font-family: 'Merriweather' serif;
 }
-
 .header-text{
     color: #FFF;
 text-align: center;
@@ -24,13 +23,11 @@ font-size: 30px;
 .party{
     margin-top: 1%;
 }
-
 .section-text{
     text-align: center;
     font-family: 'Inter', sans-serif;
     color:  #F00;;
 }
-
 .text-color{
     font-family: 'Inter', sans-serif;
     font-size: 80px;
@@ -38,7 +35,6 @@ font-size: 30px;
 .text{
     font-size: 18px;
     font-weight: 650;
-    ;
 }
 .all{
     font-size: 42px;
@@ -49,7 +45,6 @@ font-size: 30px;
     position: relative;
 
 }
-
 .join{
     margin-left: 50px;
     margin-right: 100px;
@@ -59,7 +54,6 @@ font-size: 30px;
     width: 1250px;
     height: 600px;
     display: flex
-    
 }
 
 .join .group-70{
@@ -68,12 +62,10 @@ font-size: 30px;
     margin-top: 70px;
     margin-left: 150px;
 }
-
 .join div { 
     padding-top: 50px;
     margin-left: 60px;
     text-decoration: none;
-    
 }
 .join .btn{
     color:  #FFF;
@@ -90,7 +82,6 @@ font-weight: 800;
 line-height: 88px; /* 137.5% */
 letter-spacing: 7.04px;
 }
-
 .let{
     color: rgba(255, 255, 255, 0.80);
     font-family: Inter;
@@ -99,7 +90,6 @@ letter-spacing: 7.04px;
     font-weight: 400;
     line-height: 30px; /* 166.667% */
 }
-
 .join > button{
     text-decoration: none;
     border: 0px;
@@ -107,7 +97,6 @@ letter-spacing: 7.04px;
 div{
     border-radius: 10px;
 }
-
 .about{
     background-color: rgb(240, 206, 206);
     text-align: center;
@@ -123,24 +112,20 @@ div{
 .place{
     color: #F00;;
 }
-    
 .btn-praimary{
     border-radius: 8px;
 background: #F00;
 border: 0;
 color: #FFF;
-
 text-align: center;
 font-family: Inter;
 font-size: 20px;
 padding: 13px 32px;
 }
-
 .soon{
     display: flex;
     justify-content: center;
 }
-
 #fast{
     margin-top: 50px;
     margin-right: 60px;
@@ -152,15 +137,12 @@ padding: 13px 32px;
     margin-top: 40px;
     margin-left: 20px;
 }
-
 .best{
     margin-bottom: 0%;
     color: #F00;
 font-family: Inter;
 font-size: 18px;
-
 }
-
 .coming{
     color: #070211;
 font-family: Merriweather;
@@ -168,14 +150,12 @@ font-size: 48px;
 margin-top: 1%;
 margin-bottom: 0%;
 }
-
 .we-have{
     margin-top: 1%;
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 16px;
 }
-
 .sal{
     color: #F00;
 font-family: Inter;
@@ -191,20 +171,27 @@ font-size: 16px;
     width: 125px;
     height: 125px;
 }
-
+.footer-colam{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #FFF;
+    width: 1320px;
+    height: 180px;
+    background-color: #070211;;
+    display: flex;
+    justify-content: space-between;
+}
 
 #content-section{
     text-align: center;
     margin-top: 50px;
 }
-
 .what-is{
     color: #070211;
     font-family: Inter;
     font-size: 24px;
     margin-bottom: 1%;
 }
-
 .holi{
     margin-top: 0%;
     color: #F00;
@@ -212,53 +199,43 @@ font-size: 16px;
     font-size: 72px;
     margin-bottom: 1%;
 }
-
 .to-mark{
     margin-top: 0%;
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 20px;
 }
-
 .sala{
     color: #070211;
 font-family: Merriweather;
 font-size: 72px;
 }
-
 .flex{
     display: flex;
 }
-
 .red{
     max-width: 10%;
 }
-
 .meye-offer{
     margin-left: 580px;
     position:static;
     justify-content: left;
 }
-
 .jura{
     gap: 0%;
 }
-
 .gif{
     margin-top: px;
 }
-
 #our{
     margin-left: 40px;
 }
-
 .the{
     color: #F00;
 font-family: Inter;
 font-size: 19px;
 margin-bottom: 0%;
 }
-
 .port{
     margin-top: 1%;
     color: #070211;
@@ -266,23 +243,19 @@ margin-bottom: 0%;
     font-size: 42px;
     margin-bottom: 1%;
 }
-
 .visit{
     margin-top: 0%;
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 15px;
 }
-
 .per-6{
     flex-wrap: wrap;
 }
-
 .per-7 :hover {
     border-radius: 20px;
     margin-left: 18px;
 }
-
 .container{
        justify-content: center;
        align-items: center;
@@ -321,7 +294,6 @@ font-size: 18px;
     border-radius: 50px;
     background: #FFF;
 }
-
 .bt{
     padding: 18px;
     color:#F00;
@@ -330,4 +302,4 @@ font-size: 18px;
     border: 0;
     color: #FFF;
     text-align: center;
-    
+}
