@@ -248,6 +248,37 @@ font-size: 72px;
     margin-top: px;
 }
 
-.gift{
-    justify-content: end;
+#our{
+    margin-left: 40px;
+}
+
+.the{
+    color: #F00;
+font-family: Inter;
+font-size: 19px;
+margin-bottom: 0%;
+}
+
+.port{
+    margin-top: 1%;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 42px;
+    margin-bottom: 1%;
+}
+
+.visit{
+    margin-top: 0%;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 15px;
+}
+
+.per-6{
+    flex-wrap: wrap;
+}
+
+.per-7 :hover {
+    border-radius: 20px;
+    margin-left: 20px;
 }
